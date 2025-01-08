@@ -1,0 +1,6 @@
+SMTP=smtp.gmail.com
+PORT=587
+TLS=true
+MAIL_ID=hjt4451@gmail.com
+RECEIVER=borinetserver@gmail.com
+APP_PASSWORD=brsgqwszeeiacawy
