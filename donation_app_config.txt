@@ -1,1 +1,1 @@
-DONATION_NOTIFY_URL=http://1.253.189.209/api/donation_notify.php
+DONATION_NOTIFY_URL=http://45.250.222.36/api/donation_notify.php
